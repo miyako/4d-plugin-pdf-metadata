@@ -1,2 +1,5 @@
 pdfio-master/*
 pdfio/build/*
+pdfio/.vs/*
+pdfio/Objs/*
+pdfio/test/userPreferences.*
