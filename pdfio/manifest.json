@@ -1,0 +1,11 @@
+{
+    "name": "PDFio",
+    "id": 20000,
+    "commands": [
+        {
+            "theme": "metadata",
+            "syntax": "PDFio Get metadata(&T;&T):J",
+            "threadSafe": true
+        }
+    ]
+}
